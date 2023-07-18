@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3TMwuWa34ywhOmrisZt0nsLjw0iHK7bAi2BG3f65gk3nbhUww1uzgKDSrxQB2c1A/9sXMkHu7kUieAf8YaLPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julio\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julio\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
